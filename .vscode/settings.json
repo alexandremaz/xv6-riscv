@@ -1,0 +1,4 @@
+{
+  "chat.disableAIFeatures": true,
+  "terminal.integrated.tabs.allowAgentCliTitle": false
+}
